@@ -30,8 +30,6 @@ This project exemplifies the potential of machine learning in the insurance sect
 ## Future Work
 Future work may involve expanding the dataset, incorporating additional factors like lifestyle choices and medical history, and exploring advanced regression techniques. Additionally, the development of a user-friendly web application for premium estimation could enhance accessibility and usability.
 
-## References
-•	Johnson, A. (2020). "Predictive Modeling for Health Insurance Premiums." Healthcare Analytics Journal, 33(4), 245-262.
 
 _________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 This example provides a comprehensive overview of a machine learning project focused on predicting medical insurance premiums. It covers essential aspects, from data collection and preprocessing to model selection and evaluation, and offers insights into future enhancements and potential real-world applications.
